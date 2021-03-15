@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning
   - Java
   - PHP
+  - Kotlin
   
 - 💞️ I've work with 
   - HTML
@@ -27,6 +28,7 @@
   - 3ds Max
   - Adobe photoshop
   - Adobe After Effects
+  - Android Studio
   
 - 🎉 I've done
   - Webpages
