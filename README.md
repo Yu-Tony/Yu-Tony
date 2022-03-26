@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning
   - Angular
+  - React
   
 - 💞️ I've work with 
   - HTML
