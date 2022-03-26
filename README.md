@@ -3,9 +3,7 @@
 - 👀 I’m interested in programming, drawing and playing videogames
 
 - 🌱 I’m currently learning
-  - Java
-  - PHP
-  - Kotlin
+  - Angular
   
 - 💞️ I've work with 
   - HTML
@@ -14,6 +12,9 @@
   - C++
   - C#
   - Assembly
+  - Java
+  - PHP
+  - Kotlin
   
 - 🌹 I've use
   - Visual Studio
