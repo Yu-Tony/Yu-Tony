@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yu-Tony, my name's Esteban
 
-- 👀 I’m interested in programming, drawing and playing videogames
+- 👀 I’m interested in programming and drawing
 
 - 🌱 I’m currently learning
   - Angular
