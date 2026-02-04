@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Yu-Tony, my preferred name's Hendery
-- https://www.mobygames.com/person/1727069/nahomi-estefania-soto-mendoza/
 
 - 🌱 I’m currently learning
   - Angular
@@ -41,6 +40,7 @@
 
 - 📫 You can contact me here Hendery.Soto@outlook.com
 - And here www.linkedin.com/in/nahomi-soto-nesm
+- And you can watch me on the credits here https://www.mobygames.com/person/1727069/nahomi-estefania-soto-mendoza/
 
 <!---
 Yu-Tony/Yu-Tony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
