@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Yu-Tony, my name's Esteban
 
-- 👀 I’m interested in programming and drawing
-
 - 🌱 I’m currently learning
   - Angular
   - React
@@ -16,6 +14,7 @@
   - Java
   - PHP
   - Kotlin
+  - ActionScript
   
 - 🌹 I've use
   - Visual Studio
@@ -38,9 +37,8 @@
   - Simple 3d architecture
   - Basic image edition
   - Basic video edition
-  - Databases
 
-- 📫 You can contact me here EstebanSM6@outlook.com
+- 📫 You can contact me here Hendery.Soto@outlook.com
 
 <!---
 Yu-Tony/Yu-Tony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
